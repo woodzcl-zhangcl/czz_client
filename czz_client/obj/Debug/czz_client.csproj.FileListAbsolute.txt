@@ -1,0 +1,7 @@
+D:\成众志\preSurvey\socketclient\czz_client\czz_client\bin\Debug\czz_client.exe.config
+D:\成众志\preSurvey\socketclient\czz_client\czz_client\bin\Debug\czz_client.exe
+D:\成众志\preSurvey\socketclient\czz_client\czz_client\bin\Debug\czz_client.pdb
+D:\成众志\preSurvey\socketclient\czz_client\czz_client\obj\Debug\czz_client.csprojAssemblyReference.cache
+D:\成众志\preSurvey\socketclient\czz_client\czz_client\obj\Debug\czz_client.csproj.CoreCompileInputs.cache
+D:\成众志\preSurvey\socketclient\czz_client\czz_client\obj\Debug\czz_client.exe
+D:\成众志\preSurvey\socketclient\czz_client\czz_client\obj\Debug\czz_client.pdb
